@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejer2Compose</string>
+    <string name="tareas_completadas">All tasks completed</string>
+    <string name="buen_trabajo">Nice work!</string>
+</resources>
